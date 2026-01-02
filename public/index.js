@@ -1,4 +1,4 @@
-import { dates } from "./utils/dates.js";
+import { dates } from "../utils/dates.js";
 
 const tickersArr = [];
 
