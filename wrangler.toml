@@ -1,5 +1,0 @@
-name = "stock-check-polygon-openai-cloudflare"
-compatibility_date = "2026-01-01"
-
-[assets]
-directory = "./public"
